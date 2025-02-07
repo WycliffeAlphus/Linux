@@ -8,4 +8,4 @@ or
 ```bash
 logout
 ```
-Though ```logout``` is viable when in a login shell.
+Though ```logout``` is vaiable when in a login shell.
